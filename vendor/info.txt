@@ -1,0 +1,1 @@
+Containing all information about flow of the website, Usage of Icons and Fonts, Animations, Colours and gradients.
